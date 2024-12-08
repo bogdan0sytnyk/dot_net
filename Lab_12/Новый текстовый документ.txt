@@ -1,0 +1,14 @@
+Tiupa
+Pavel
+tiupa@gmail.com
+HelloWorld!123
+
+Neymar
+Santos
+
+Messi
+Lionel
+messi@gmail.com
+HelloMessi?456
+
+Сделал правильно - 1, 2, 3, 4, 7, 8, 9.

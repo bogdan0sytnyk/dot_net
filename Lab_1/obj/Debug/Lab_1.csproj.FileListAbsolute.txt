@@ -1,0 +1,14 @@
+C:\Users\illia\source\repos\Lab_1\bin\Debug\Lab_1.exe.config
+C:\Users\illia\source\repos\Lab_1\bin\Debug\Lab_1.exe
+C:\Users\illia\source\repos\Lab_1\bin\Debug\Lab_1.pdb
+C:\Users\illia\source\repos\Lab_1\obj\Debug\Lab_1.csproj.AssemblyReference.cache
+C:\Users\illia\source\repos\Lab_1\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\illia\source\repos\Lab_1\obj\Debug\Lab_1.exe
+C:\Users\illia\source\repos\Lab_1\obj\Debug\Lab_1.pdb
+C:\University\Предметы\Дотнет\Lab_1\obj\Debug\Lab_1.csproj.AssemblyReference.cache
+C:\University\Предметы\Дотнет\Lab_1\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
+C:\University\Предметы\Дотнет\Lab_1\obj\Debug\Lab_1.exe
+C:\University\Предметы\Дотнет\Lab_1\obj\Debug\Lab_1.pdb
+C:\University\Предметы\Дотнет\Lab_1\bin\Debug\Lab_1.exe.config
+C:\University\Предметы\Дотнет\Lab_1\bin\Debug\Lab_1.exe
+C:\University\Предметы\Дотнет\Lab_1\bin\Debug\Lab_1.pdb

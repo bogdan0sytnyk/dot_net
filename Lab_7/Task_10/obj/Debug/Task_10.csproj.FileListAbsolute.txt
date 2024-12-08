@@ -1,0 +1,10 @@
+C:\University\Предметы\Дотнет\Lab_7\Task_10\bin\Debug\Task_10.exe.config
+C:\University\Предметы\Дотнет\Lab_7\Task_10\bin\Debug\Task_10.exe
+C:\University\Предметы\Дотнет\Lab_7\Task_10\bin\Debug\Task_10.pdb
+C:\University\Предметы\Дотнет\Lab_7\Task_10\obj\Debug\Task_10.csproj.AssemblyReference.cache
+C:\University\Предметы\Дотнет\Lab_7\Task_10\obj\Debug\Task_10.csproj.SuggestedBindingRedirects.cache
+C:\University\Предметы\Дотнет\Lab_7\Task_10\obj\Debug\Task_10.Properties.Resources.resources
+C:\University\Предметы\Дотнет\Lab_7\Task_10\obj\Debug\Task_10.csproj.GenerateResource.cache
+C:\University\Предметы\Дотнет\Lab_7\Task_10\obj\Debug\Task_10.csproj.CoreCompileInputs.cache
+C:\University\Предметы\Дотнет\Lab_7\Task_10\obj\Debug\Task_10.exe
+C:\University\Предметы\Дотнет\Lab_7\Task_10\obj\Debug\Task_10.pdb

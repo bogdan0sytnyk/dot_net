@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OguTDM0ROdlm+yYnBv+UH8HIl24k7IN1v1zhSKe37Jxv9rQMoa7z3OvK+aeM4+2FrwK32Sngi3hSxl58/xMnpg==",
+  "success": true,
+  "projectFilePath": "C:\\University\\Предметы\\Дотнет\\Lab_3\\Task_3\\Task_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\mystemsharp\\1.0.0\\mystemsharp.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
